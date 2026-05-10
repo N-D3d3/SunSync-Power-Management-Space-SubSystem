@@ -62,8 +62,6 @@ Power Consumption Comparison — Quantifies total energy savings over 24 hours
 
 
 Results show that intelligent scheduling can significantly reduce unnecessary RF activity during eclipse phases, helping preserve battery health and improve long-term mission sustainability.
-Repository Structure
-Simulation Results/├── Battery State of Charge.png├── Orbit Energy Model.png├── Power Consumption Comparison.png├── RF Duty Cycle.png├── Simulation Video.mp4├── result.pngcodes/├── run_all_simulations.m├── simulation_1_orbit_energy.m├── simulation_2_battery_soc.m├── simulation_3_rf_duty_cycle.m├── simulation_4_power_consumption.m├── simulation_orbit_visual.m├── Block Diagram.png├── README.md
 
 Project Impact
 SunSync demonstrates that sustainable spacecraft operation is not only about improving hardware efficiency — it is also about optimizing when systems operate. By shifting telemetry transmission windows from eclipse to sunlight periods, the subsystem can:
@@ -83,20 +81,6 @@ Allocate more power toward scientific payloads
 
 Increase mission reliability for future CubeSat platforms
 
-
-Future Improvements
-
-
-Real-time eclipse prediction
-
-
-Adaptive RF transmission rates based on signal quality
-
-
-More realistic orbital mechanics and environmental modeling
-
-
-Integration with embedded flight software and real hardware testing
 
 
 Team
